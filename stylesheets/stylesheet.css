@@ -222,9 +222,12 @@ td {
 form {
   background: #f2f2f2;
   padding: 20px;
-
 }
 
+abbr {
+  background-color: #fcf8f2;
+  border-bottom: dashed 1px #f3e7db;
+}
 
 /* GENERAL ELEMENT TYPE STYLES */
 
